@@ -439,6 +439,7 @@ body {
   width: 60em;/*960px*/
   //min-height: 100%;
 }
+
 header,
 nav,
 section,
@@ -456,13 +457,8 @@ a {
   font-size: 1em;
   font-weight: bold;
   text-transform: uppercase;
-  
-  
 }
-.link {
-  font-weight: bold;
-  color: red;
-}
+
 
 /*Sections*/
 section {margin: 1em 0;}
@@ -600,7 +596,5 @@ footer a {
 span{
     color: rgb(65, 196, 225);
 }
-
-
 
 /**************Login and Signup ends here*******/
